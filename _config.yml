@@ -7,7 +7,7 @@ auto: true
 pygments: true
 category_dir: ../blog/categories/
 tag_dir: ../blog/tags/
-tag_title_prefix: 'Tag: 
+tag_title_prefix: 'Tag:'
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
