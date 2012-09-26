@@ -1,0 +1,7 @@
+source "http://ruby.taobao.org"
+gem "jekyll"
+gem "fssm"
+gem "hpricot"
+gem "nokogiri"
+gem "rdiscount"
+gem "gsl"
