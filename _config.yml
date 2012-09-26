@@ -5,14 +5,17 @@ permalink: /:categories/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
+category_dir: ../blog/categories/
+tag_dir: ../blog/tags/
+tag_title_prefix: 'Tag: 
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : 竞彩策略博客
 tagline: Site Tagline
 author :
-  name : 竞彩策略博客
+  name : 珍珑球局
   email : along008@gmail.com
   github : tiaohai
   twitter : username
